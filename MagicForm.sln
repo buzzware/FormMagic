@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicForm2", "MagicForm2\MagicForm2.csproj", "{9555EBAB-2F6D-49AA-B5C4-6DCA8D2BAF20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicForm", "MagicForm2\MagicForm.csproj", "{9555EBAB-2F6D-49AA-B5C4-6DCA8D2BAF20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicForm2.Droid", "Droid\MagicForm2.Droid.csproj", "{C75EA06D-4C80-434F-A4E1-D26823776003}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicForm.Droid", "Droid\MagicForm.Droid.csproj", "{C75EA06D-4C80-434F-A4E1-D26823776003}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

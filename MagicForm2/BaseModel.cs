@@ -2,7 +2,7 @@
 using PropertyChanged;
 using System.ComponentModel;
 
-namespace MagicForm2 {
+namespace MagicForm {
 	[ImplementPropertyChanged]
 	public class BaseModel : INotifyPropertyChanged {
 		#region INotifyPropertyChanged implementation

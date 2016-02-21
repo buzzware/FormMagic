@@ -2,7 +2,7 @@
 
 using Xamarin.Forms;
 
-namespace MagicForm2 {
+namespace MagicForm {
 	public class App : Application {
 		public App() {
 			// The root page of your application

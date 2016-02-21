@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="au.com.buzzware.magicform2">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="au.com.buzzware.magicform">
 	<uses-sdk android:minSdkVersion="15" />
-	<application android:label="MagicForm2">
-	</application>
+	<application android:label="MagicForm"></application>
 </manifest>

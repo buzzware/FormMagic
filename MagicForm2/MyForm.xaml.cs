@@ -9,7 +9,7 @@ using System.Diagnostics;
 using Newtonsoft.Json.Serialization;
 using System.Linq;
 
-namespace MagicForm2 {
+namespace MagicForm {
 
 	[ImplementPropertyChanged]
 	public partial class MyForm : ContentPage, INotifyPropertyChanged {

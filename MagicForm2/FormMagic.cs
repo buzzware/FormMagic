@@ -7,7 +7,7 @@ using System.Reflection;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace MagicForm2 {
+namespace MagicForm {
 
 	[AttributeUsage(AttributeTargets.Property)]
 	public class RequiredAttribute : Attribute {

@@ -2,7 +2,7 @@
 using PropertyChanged;
 using System.ComponentModel;
 
-namespace MagicForm2 {
+namespace MagicForm {
 
 	public class Person : BaseModel {
 		[RequiredAttribute]
